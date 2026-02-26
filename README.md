@@ -16,7 +16,7 @@ FilterMultiples - считывает исходный файл и создает
 Вывод форматирован по 10 чисел в строке
 Включена возможность просмотра исходных и отфильтрованных данных
 
-<img width="690" height="330" alt="image" src="https://github.com/user-attachments/assets/646da898-310f-4da7-8fe3-1e4c56d46d43" />
+<img width="501" height="252" alt="image" src="https://github.com/user-attachments/assets/0a62c8f0-5cf7-4861-8e73-cb20514f13b0" />
 
 
 Задача 2: Работа с матрицами
@@ -35,7 +35,7 @@ FindColumnFarthestFromZero - вычисляет для каждого столб
 Использование типа long long для произведения для предотвращения переполнения
 Нумерация столбцов с 1 для удобства пользователя
 
-<img width="690" height="319" alt="image" src="https://github.com/user-attachments/assets/f66529a1-8cbd-47e3-99ac-e33985e1397d" />
+<img width="571" height="240" alt="image" src="https://github.com/user-attachments/assets/c4c5a9ba-e4da-45b1-bb06-2b73f659d85f" />
 
 
 Задача 3: Работа со структурами данных
@@ -54,7 +54,7 @@ FindToyForThreeYearOld - проверяет наличие подходящей 
 Проверка всех условий: исключение мяча, проверка возрастного диапазона
 Наглядный вывод найденной игрушки при успешном поиске
 
-<img width="1062" height="497" alt="image" src="https://github.com/user-attachments/assets/180dc353-855c-4b67-a320-984cb1bdc574" />
+<img width="550" height="318" alt="image" src="https://github.com/user-attachments/assets/2369d023-5324-4a5d-99de-11bd3bac06f1" />
 
 
 Задача 4: Обработка текстового файла (одно число в строке)
@@ -70,8 +70,7 @@ FindSumOfMinMax - находит минимальное и максимальн�
 Использование констант INT_MAX и INT_MIN для инициализации
 Простой и эффективный алгоритм поиска min/max за один проход
 
-<img width="697" height="138" alt="image" src="https://github.com/user-attachments/assets/c2c3e7f4-98d6-48f0-837b-373c9fcfc960" />
-<img width="393" height="597" alt="image" src="https://github.com/user-attachments/assets/5e2f8ddf-4633-461e-bd5e-c6e4d76e324e" />
+<img width="566" height="183" alt="image" src="https://github.com/user-attachments/assets/d8dd9935-ad91-4011-9878-befa847617ec" />
 
 
 Задача 5: Обработка текстового файла (несколько чисел в строке)
@@ -88,8 +87,7 @@ SumEvenNumbers - анализирует файл, суммируя все чет
 Поддержка произвольного количества чисел в строке
 Четкое разделение логики чтения файла и обработки данных
 
-<img width="570" height="117" alt="image" src="https://github.com/user-attachments/assets/16ed2a8c-bbe4-45c6-931f-935802f189a8" />
-<img width="545" height="406" alt="image" src="https://github.com/user-attachments/assets/5cd000ef-589c-4fa3-ae75-a7358299c953" />
+<img width="511" height="290" alt="image" src="https://github.com/user-attachments/assets/9fe04d65-208b-4e2e-b357-1bd7bb36098e" />
 
 
 Задача 6: Работа с текстовыми данными
@@ -107,7 +105,7 @@ CopyLinesWithoutRussian - копирует подходящие строки в 
 Учет особенностей UTF-8 при проверке русских букв
 Подсчет количества скопированных строк для обратной связи
 
-<img width="660" height="129" alt="image" src="https://github.com/user-attachments/assets/1a88e7c7-7867-4b0b-89bd-aa534f5dfc24" />
-<img width="553" height="346" alt="image" src="https://github.com/user-attachments/assets/9a0d72c7-20a1-456f-8c6e-917c10d43a23" />
+<img width="514" height="490" alt="image" src="https://github.com/user-attachments/assets/16b73467-1a8e-42bf-91b6-49c2a959c513" />
+
 
 
